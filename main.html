@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="./src/main/resources/style.css">
+</head>
+<body>
+<script type="text/javascript" src="./target/scala-2.11/scala-js-tutorial-fastopt.js"></script>
+
+<div id="canvas-block">
+<canvas id="canvas"></canvas>
+    <span class="score">P1 Score: <span id="score1">0</span></span>
+    <span class = "score" style="margin-right:10px;">P2 Score:<span id="score2">0</span></span>
+</div>
+
+<div id="reMenu">
+    <h1 id="snake2">Snake</h1>
+    <p id="info2">Game Over</p>
+    <a href="javascript: void(0)" id="restart" onclick="webapp.SnakeApp().init()" >Restart</a>
+</div>
+
+<div id="menu">
+    <h1 id="snake">Snake</h1>
+    <a href="javascript: void(0)" id="start" onclick="webapp.SnakeApp().init()" >Start</a>
+</div>
+</body>
+</html>

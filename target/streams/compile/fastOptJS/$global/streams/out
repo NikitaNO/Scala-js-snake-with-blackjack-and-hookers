@@ -1,0 +1,17 @@
+[info] Fast optimizing C:\Users\admin\Desktop\Scala.js-snake\target\scala-2.11\scala-js-tutorial-fastopt.js
+[debug] Linker: Read info: 8256 us
+[debug] Linker: Compute reachability: 61460 us
+[debug] Linker: Assemble LinkedClasses: 203006 us
+[debug] Linker: cache stats: reused: 3523 -- invalidated: 20 -- trees read: 18
+[debug] Linker: 276633 us
+[debug] Inc. optimizer: Batch mode: false
+[debug] Inc. optimizer: Incremental part: 33797 us
+[debug] Inc. optimizer: Optimizing 1 methods.
+[debug] Inc. optimizer: Optimizer part: 551 us
+[debug] Inc. optimizer: 40076 us
+[debug] Refiner: Compute reachability: 46058 us
+[debug] Refiner: Assemble LinkedClasses: 7351 us
+[debug] Refiner: 53628 us
+[debug] Emitter: Class tree cache stats: reused: 363 -- invalidated: 14
+[debug] Emitter: Method tree cache stats: resued: 1730 -- invalidated: 1
+[debug] Emitter (write output): 97389 us

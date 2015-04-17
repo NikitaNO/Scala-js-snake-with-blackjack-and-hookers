@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.lihaoyi:scalarx_sjs0.6_2.11:0.2.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.lihaoyi/scalarx_sjs0.6_2.11/jars/scalarx_sjs0.6_2.11-0.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.lihaoyi/scalarx_sjs0.6_2.11/docs/scalarx_sjs0.6_2.11-0.2.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.lihaoyi/scalarx_sjs0.6_2.11/srcs/scalarx_sjs0.6_2.11-0.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
